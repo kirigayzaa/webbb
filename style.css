@@ -1,0 +1,14 @@
+body{
+    margin: 0; /* Xóa margin mặc định */  
+    padding: 0; /* Xóa padding mặc định */  
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-image: url('https://wallpapersmug.com/download/1024x768/efb915/clouds-sky-anime.jpg');
+    /* background-image: url('https://img5.thuthuatphanmem.vn/uploads/2021/12/28/night-sky-anime-wallpaper_091116689.jpg'); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
